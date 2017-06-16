@@ -14,7 +14,7 @@ public class directionTrigger : MonoBehaviour
 
 	void OnTriggerEnter(Collider target)
 	{
-		target.BroadcastMessage("Message", sendVec, SendMessageOptions.DontRequireReceiver);
+		target.BroadcastMessage("Turn", sendVec, SendMessageOptions.DontRequireReceiver);
 		//Debug.Log(sendVec);
 	}
 }

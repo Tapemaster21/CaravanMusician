@@ -1,8 +1,13 @@
-﻿<Properties StartupItem="Assembly-CSharp.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\turretScript.cs">
+﻿<Properties StartupItem="CaravanMusician.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\bullet.cs">
     <Files>
-      <File FileName="Assets\Scripts\turretScript.cs" Line="25" Column="114" />
+      <File FileName="Assets\Scripts\turretScript.cs" Line="52" Column="1" />
+      <File FileName="Assets\Scripts\spawner.cs" Line="7" Column="25" />
+      <File FileName="Assets\Scripts\enemy.cs" Line="42" Column="52" />
+      <File FileName="Assets\Scripts\HealthDisplay.cs" Line="6" Column="2" />
+      <File FileName="Assets\Scripts\removeTrigger.cs" Line="10" Column="28" />
+      <File FileName="Assets\Scripts\bullet.cs" Line="17" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
